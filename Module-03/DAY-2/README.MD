@@ -18,8 +18,8 @@ To write a Java program that demonstrates method overriding using inheritance an
  ```
 /*
 Program to implement a Polymorphism using Java
-Developed by: AGASH S
-RegisterNumber:212224040014
+Developed by: Joann Elizabeth Samuel
+RegisterNumber:212224040139
 */
 ```
 
