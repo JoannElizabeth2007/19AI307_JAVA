@@ -23,8 +23,8 @@ To write a Java program that defines a class Person with private variables and p
  ```
 /*
 Program to implement a Access Specifiers using Java
-Developed by: AGASH S
-RegisterNumber: 212224040014
+Developed by: Joann Elizabeth Samuel
+RegisterNumber: 212224040139
 */
 ```
 
